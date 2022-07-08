@@ -1,0 +1,7 @@
+Domain : samlforum.com
+
+URL : https://ip-208-109-13-224.ip.secureserver.net:2083/logout/?locale=en
+
+
+User : samlf	
+Pswd :Saml$22$forum
